@@ -1,0 +1,40 @@
+{
+    "totalCount": 6,
+    "items": [
+        {
+            "id": "news",
+            "text": "nouvelles",
+            "routerLink": "news"
+        },
+        {
+            "id": "articles",
+            "text": "articles",
+            "routerLink": "articles"
+        },
+        {
+            "id": "blogs",
+            "text": "blogs",
+            "routerLink": "blogs"
+        },
+        {
+            "id": "persons",
+            "text": "personnes",
+            "routerLink": "persons"
+        },
+        {
+            "id": "affiche",
+            "text": "affiche",
+            "routerLink": "affiche"
+        },
+        {
+            "id": "where_to_go",
+            "text": "où aller",
+            "routerLink": "where-to-go"
+        },
+        {
+            "id": "companies",
+            "text": "entreprises",
+            "routerLink": "companies"
+        }
+    ]
+}

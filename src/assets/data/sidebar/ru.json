@@ -1,0 +1,40 @@
+{
+    "totalCount": 6,
+    "items": [
+        {
+            "id": "news",
+            "text": "Новости",
+            "routerLink": "news"
+        },
+        {
+            "id": "articles",
+            "text": "статьи",
+            "routerLink": "articles"
+        },
+        {
+            "id": "blogs",
+            "text": "блоги",
+            "routerLink": "blogs"
+        },
+        {
+            "id": "persons",
+            "text": "Персоны",
+            "routerLink": "persons"
+        },
+        {
+            "id": "affiche",
+            "text": "афиша",
+            "routerLink": "affiche"
+        },
+        {
+            "id": "where_to_go",
+            "text": "куда пойти",
+            "routerLink": "where-to-go"
+        },
+        {
+            "id": "companies",
+            "text": "компании",
+            "routerLink": "companies"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "totalCount": 6,
+    "items": [
+        {
+            "id": "news",
+            "text": "Noticias",
+            "routerLink": "news"
+        },
+        {
+            "id": "articles",
+            "text": "artículos",
+            "routerLink": "articles"
+        },
+        {
+            "id": "blogs",
+            "text": "blogs",
+            "routerLink": "blogs"
+        },
+        {
+            "id": "persons",
+            "text": "personas",
+            "routerLink": "persons"
+        },
+        {
+            "id": "affiche",
+            "text": "affiche",
+            "routerLink": "affiche"
+        },
+        {
+            "id": "where_to_go",
+            "text": "dónde ir",
+            "routerLink": "where-to-go"
+        },
+        {
+            "id": "companies",
+            "text": "compañías",
+            "routerLink": "companies"
+        }
+    ]
+}

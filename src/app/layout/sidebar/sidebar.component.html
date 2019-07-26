@@ -1,0 +1,5 @@
+<app-authentication></app-authentication>
+<mat-nav-list *ngFor="let item of items">
+  <a mat-list-item routerLink="{{lang}}/{{item.routerLink}}">{{item?.text}}</a>
+</mat-nav-list>
+
