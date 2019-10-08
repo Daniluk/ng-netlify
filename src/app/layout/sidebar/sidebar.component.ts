@@ -5,9 +5,8 @@ import { LangChangeEvent, TranslateService } from '@ngx-translate/core';
 import ISettings from '../../shared-modules/settings/interfaces/ISettings.js';
 import IUser from '../../shared-modules/users/user/interfaces/IUser';
 import { UserService } from '../../shared-modules/users/user/user.service';
-// import MENU from '../../../../assets/json/data/menu/en.json';
-import { ChangeLangService } from '../change-lang/change-lang.service.js';
-import { SidebarService } from './sidebar.service.js';
+import { ChangeLangService } from '../change-lang/change-lang.service';
+import { SidebarService } from './sidebar.service';
 
 @Component({
   selector: 'app-sidebar',
